@@ -267,7 +267,7 @@ In this step, you prepare sample codes for using the IoT Edge API.
     ```
 
     **Note**: 
-    We verified the below commit and you may need to checkout it.  
+    We verified the below commit and you may need to checkout it.  (4/21/2023 JAM: FAILS fatal: not a git repository (or any of the parent directories): .git)
     *Commit ID:86c0884e9a0c4332aafba70ca201384495915d7f*
     ```
     git checkout 86c0884e9a0c4332aafba70ca201384495915d7f
